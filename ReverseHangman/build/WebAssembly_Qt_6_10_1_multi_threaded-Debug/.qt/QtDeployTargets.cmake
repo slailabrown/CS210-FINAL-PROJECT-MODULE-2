@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ReverseHangman_FILE C:/Users/Laila/Documents/ReverseHangman/build/WebAssembly_Qt_6_10_1_multi_threaded-Debug/ReverseHangman.js)
+set(__QT_DEPLOY_TARGET_ReverseHangman_TYPE EXECUTABLE)

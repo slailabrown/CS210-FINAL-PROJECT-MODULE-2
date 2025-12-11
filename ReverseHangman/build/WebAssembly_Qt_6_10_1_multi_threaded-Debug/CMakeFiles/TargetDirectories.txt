@@ -1,0 +1,5 @@
+C:/Users/Laila/Documents/ReverseHangman/build/WebAssembly_Qt_6_10_1_multi_threaded-Debug/CMakeFiles/ReverseHangman.dir
+C:/Users/Laila/Documents/ReverseHangman/build/WebAssembly_Qt_6_10_1_multi_threaded-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Laila/Documents/ReverseHangman/build/WebAssembly_Qt_6_10_1_multi_threaded-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Laila/Documents/ReverseHangman/build/WebAssembly_Qt_6_10_1_multi_threaded-Debug/CMakeFiles/ReverseHangman_autogen_timestamp_deps.dir
+C:/Users/Laila/Documents/ReverseHangman/build/WebAssembly_Qt_6_10_1_multi_threaded-Debug/CMakeFiles/ReverseHangman_autogen.dir

@@ -1,0 +1,20 @@
+# ninja log v6
+28	157	7871092399977539	C:/Users/Laila/Documents/ReverseHangman/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	a1097eecd0923c24
+15	1253	7871358271881962	ReverseHangman_autogen/timestamp	470cc7566f8d7199
+15	1253	7871358271881962	ReverseHangman_autogen/mocs_compilation.cpp	470cc7566f8d7199
+15	1253	7871358271881962	C:/Users/Laila/Documents/ReverseHangman/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/ReverseHangman_autogen/timestamp	470cc7566f8d7199
+1488	2936	7871358275589841	CMakeFiles/ReverseHangman.dir/gameengine.cpp.obj	ba9a2ffd37991b5f
+1254	1472	7871358275314726	C:/Users/Laila/Documents/ReverseHangman/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/ReverseHangman_autogen/EWIEGA46WW/qrc_Resources.cpp	9fa6a0df4c252e39
+1483	5757	7871358275553173	CMakeFiles/ReverseHangman.dir/mainwindow.cpp.obj	bc27704205f70611
+1478	4911	7871358275509226	CMakeFiles/ReverseHangman.dir/main.cpp.obj	b6d0bf90523be39
+1498	4819	7871358275716283	CMakeFiles/ReverseHangman.dir/bodyviewdialog.cpp.obj	bf8c696531904abc
+15	1253	7871358271881962	C:/Users/Laila/Documents/ReverseHangman/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/ReverseHangman_autogen/mocs_compilation.cpp	470cc7566f8d7199
+1472	4970	7871358275459146	CMakeFiles/ReverseHangman.dir/ReverseHangman_autogen/mocs_compilation.cpp.obj	e5be6f853394ee4b
+1493	5231	7871358275634459	CMakeFiles/ReverseHangman.dir/bodywidget.cpp.obj	e3ec40e08e19f526
+2399	6897	7870519545851268	CMakeFiles/ReverseHangman.dir/limbchooserdialog.cpp.obj	3c0d9b2347aa2df9
+5757	6355	7871358318304418	ReverseHangman.exe	c3c18f4f2f568c32
+12	1354	7871374514733907	build.ninja	133293f1cc01e6c0
+1254	1472	7871358275314726	ReverseHangman_autogen/EWIEGA46WW/qrc_Resources.cpp	9fa6a0df4c252e39
+1505	2932	7871358275756488	CMakeFiles/ReverseHangman.dir/ReverseHangman_autogen/EWIEGA46WW/qrc_Resources.cpp.obj	d9d5e97022252cff
+9	64	7871355835767861	CMakeFiles/clean.additional	baedbe210acaa455
+64	98	7871355836315629	clean	577b940aee94fbd7

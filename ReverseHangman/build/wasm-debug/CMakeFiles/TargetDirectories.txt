@@ -1,0 +1,5 @@
+C:/Users/Laila/Documents/ReverseHangman/build/wasm-debug/CMakeFiles/ReverseHangman.dir
+C:/Users/Laila/Documents/ReverseHangman/build/wasm-debug/CMakeFiles/edit_cache.dir
+C:/Users/Laila/Documents/ReverseHangman/build/wasm-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Laila/Documents/ReverseHangman/build/wasm-debug/CMakeFiles/ReverseHangman_autogen_timestamp_deps.dir
+C:/Users/Laila/Documents/ReverseHangman/build/wasm-debug/CMakeFiles/ReverseHangman_autogen.dir

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ReverseHangman",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ReverseHangman::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReverseHangman-Debug-d23f6f359b2b24535f55.json",
+					"name" : "ReverseHangman",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ReverseHangman_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReverseHangman_autogen-Debug-64795943a8443a23cee0.json",
+					"name" : "ReverseHangman_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ReverseHangman_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReverseHangman_autogen_timestamp_deps-Debug-4c73b6a03bcdd31dd578.json",
+					"name" : "ReverseHangman_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Laila/Documents/ReverseHangman/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Laila/Documents/ReverseHangman"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
