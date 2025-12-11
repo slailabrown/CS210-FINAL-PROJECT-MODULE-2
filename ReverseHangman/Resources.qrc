@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/dumb">
+        <file>dumb/head.png</file>
+        <file>dumb/leftbicep.png</file>
+        <file>dumb/leftcalf.png</file>
+        <file>dumb/leftforearm.png</file>
+        <file>dumb/lefthand.png</file>
+        <file>dumb/leftthigh.png</file>
+        <file>dumb/rightbicep.png</file>
+        <file>dumb/rightcalf.png</file>
+        <file>dumb/rightforearm.png</file>
+        <file>dumb/righthand.png</file>
+        <file>dumb/rightthigh.png</file>
+        <file>dumb/torso.png</file>
+        <file>dumb/fullbody.png</file>
+        <file>dumb/blood.png</file>
+    </qresource>
+</RCC>
